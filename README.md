@@ -19,14 +19,20 @@ Currently working at **HK Softtronix** as a **Web Developer**, while pursuing my
 🗄️ MySQL | 🍃 MongoDB | 🐳 Docker | 🔧 Git | ▲ Vercel | 🔹 Render | ☁️ Heroku  
 
 ---
-My portfolio :- https://priyanka14portfolio.netlify.app/
+
+## 🌐 Portfolio  
+
+🔗 [My Portfolio Website](https://priyanka14portfolio.netlify.app/)  
+
+---
+
 ## 📌 Featured Projects  
 
 🔹 [Epicure Restaurant Website Clone](https://your-epicure-clone-link.vercel.app)  
 *🍽️ Bootstrap 5 responsive restaurant template clone*  
 
 🔹 [Wishlist Closet (E-commerce Website)](https://your-wishlist-closet-link.vercel.app)  
-*🛒 Cart, checkout & payment system using Bootstrap + jQuery*  
+*🛒 Cart, checkout & payment system using Bootstrap + jQuery + PHP*  
 
 🔹 [Order Delivery Tracking App](https://your-order-tracker.netlify.app)  
 *📦 Real-time delivery tracking (React + Vite + TypeScript + API)*  
@@ -47,6 +53,7 @@ My portfolio :- https://priyanka14portfolio.netlify.app/
 
 ## 🌍 Connect With Me  
 
+🔗 [Portfolio](https://priyanka14portfolio.netlify.app)  
 🔗 [GitHub](https://github.com/priyanka-chavan-pvc)  
 🔗 [LinkedIn](https://www.linkedin.com/in/priyanka-chavan-14)  
 🔗 [Instagram](https://instagram.com/http.priya)  
@@ -54,4 +61,3 @@ My portfolio :- https://priyanka14portfolio.netlify.app/
 ---
 
 💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
-
